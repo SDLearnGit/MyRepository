@@ -4,4 +4,3 @@ My Third line.
 My Fourth line.
 My Fifth line.
 My Sixth Line.
-My seventh Line small.
